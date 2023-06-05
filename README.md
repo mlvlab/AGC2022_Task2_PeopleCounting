@@ -1,4 +1,4 @@
-# For Drone Challenge Task2
+# AGC2022 Task2 PeopleCounting
 original cloned repository: https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet
 
 ## Video Data & Pretrained Params
