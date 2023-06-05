@@ -1,10 +1,10 @@
-# for drone challenge task2
+# For Drone Challenge Task2
 original cloned repository: https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet
 
-## video data & pretrained params
+## Video Data & Pretrained Params
 https://drive.google.com/drive/folders/1CfVMSrl-t0t2sMdNLMnU23oKJSOd1dQS?usp=sharing
 
-## video inference command
+## Video Inference Command
 
 Task2 @ "src/"
 ```shell
